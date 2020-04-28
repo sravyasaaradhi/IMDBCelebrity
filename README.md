@@ -8,3 +8,4 @@ b) Profession
 c) Biography
 d) Image Link
 
+Stored all the data in .json file and .csv file.
